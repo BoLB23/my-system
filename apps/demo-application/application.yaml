@@ -1,0 +1,8 @@
+title: "My New Application"
+description: "New Demo application initialized with KubeFox"
+vars:
+    example: value
+components:
+    hello-py:
+        routes:
+        
